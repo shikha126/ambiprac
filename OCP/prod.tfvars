@@ -1,0 +1,6 @@
+avail-zone = ["us-east-1a", "us-east-1b", "us-east-1c", "us-east-1d"]
+public-subnet = ["10.40.1.0/24", "10.40.2.0/24","10.40.3.0/24", "10.40.4.0/24"]
+private-subnet = ["10.40.11.0/24", "10.40.12.0/24" , "10.40.13.0/24", "10.40.14.0/24"]
+private-subnet-name = ["private-subnet-name-1", "private-subnet-name-2", "private-subnet-name-3", "private-subnet-name-4"]
+public-subnet-name = ["public-subnet-name-1", "public-subnet-name-2", "public-subnet-name-3", "public-subnet-name-4"]
+instance-list-name = ["instance-1", "instance-2"]
